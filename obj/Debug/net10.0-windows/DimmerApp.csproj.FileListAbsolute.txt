@@ -1,0 +1,14 @@
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.AssemblyInfoInputs.cache
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.AssemblyInfo.cs
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.csproj.CoreCompileInputs.cache
+F:\DimmerApp\bin\Debug\net10.0-windows\DimmerApp.exe
+F:\DimmerApp\bin\Debug\net10.0-windows\DimmerApp.deps.json
+F:\DimmerApp\bin\Debug\net10.0-windows\DimmerApp.runtimeconfig.json
+F:\DimmerApp\bin\Debug\net10.0-windows\DimmerApp.dll
+F:\DimmerApp\bin\Debug\net10.0-windows\DimmerApp.pdb
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.dll
+F:\DimmerApp\obj\Debug\net10.0-windows\refint\DimmerApp.dll
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.pdb
+F:\DimmerApp\obj\Debug\net10.0-windows\DimmerApp.genruntimeconfig.cache
+F:\DimmerApp\obj\Debug\net10.0-windows\ref\DimmerApp.dll
