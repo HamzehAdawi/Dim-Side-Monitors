@@ -28,7 +28,7 @@ dotnet build
 
 - This creates `DimmerApp.exe` in `bin/Debug/net8.0/` (or `bin/Release/net8.0/` if using release build)
 
----
+
 
 ### 2. Run the program
 
@@ -39,7 +39,7 @@ dotnet run
 - The tray icon appears in the bottom-right corner of Windows
 - Double-click tray icon or use **Ctrl + 0** to toggle dimming
 
----
+
 
 ### 3. Enable auto-start (optional)
 
@@ -49,7 +49,7 @@ dotnet run
 
 > ⚠️ Startup only works after the program has been run at least once
 
-
+---
 
 ## Hotkeys
 
