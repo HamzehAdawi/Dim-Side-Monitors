@@ -81,6 +81,8 @@ Keys: Use the names from the Windows Keys enumeration.
 Examples: D0, D1, F12, A, B, etc.
 
 For a full list of key names you can use in hotkeys.txt, see the official Microsoft documentation:
+
+
 https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys
 
 Toggle=2,D0    -> Ctrl + 0 (toggle dim on/off)
