@@ -1,7 +1,6 @@
 # Dim Side Monitors for Windows
-| ![dimmerIcon](https://github.com/user-attachments/assets/22759d26-03b5-46e5-ac57-dece602aa926) | Description |
-|---|---|
-| | A very simple Windows utility to dim side monitors on multi-monitor setups, able to toggle on/off by a hotkey. |
+![dimmerIcon](https://github.com/user-attachments/assets/22759d26-03b5-46e5-ac57-dece602aa926) &nbsp;&nbsp;&nbsp;A very simple Windows utility to dim side monitors on multi-monitor setups, able to toggle on/off by a hotkey.
+
 ## Features
 
 - Toggle dimming with **Ctrl + 0**
